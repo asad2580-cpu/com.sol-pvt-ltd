@@ -653,3 +653,17 @@ footer {
   font-size: 0.9rem;
   color: var(--white);
 }
+
+.nav-logo img {
+  height: 38px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
+
+footer .nav-logo img {
+  height: 34px;
+  width: auto;
+  object-fit: contain;
+  display: block;
+}
